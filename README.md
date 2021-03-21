@@ -9,8 +9,8 @@ func main() {
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosatrini&hide=javascript,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosatrini&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosatrini&hide=javascript,html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosatrini&show_icons=true&theme=merko)
 
 ```go
 }

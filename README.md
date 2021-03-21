@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Eduardo.
 
 ```go
-package _main_
+package __main__
 
 func main() {
 ```

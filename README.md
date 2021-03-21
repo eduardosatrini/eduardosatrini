@@ -1,10 +1,9 @@
 ### Hey 👋, I'm Eduardo.
 
 ```go
+package main
 
 import "stats"
-
-package main
 
 func main() {
 ```

@@ -6,7 +6,7 @@ package main
 func main() {
 ```
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosatrini&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

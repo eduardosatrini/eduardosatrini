@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey Devs 👋
 
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)

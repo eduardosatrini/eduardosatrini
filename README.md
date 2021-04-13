@@ -1,10 +1,9 @@
-### Hey Devs 👋
+### Hey 👋
 
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosatrini&hide=javascript,html,css&theme=onedark)](https://github.com/eduardosatrini)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosatrini&show_icons=true&theme=onedark)
 
 
 <!--

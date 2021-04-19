@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning **Go**
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosatrini&layout=compact&hide=html)](https://github.com/eduardosatrini)

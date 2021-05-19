@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Go**
 - 📫 How to reach me: [Telegram](https://t.me/eduardosatrini)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrini&layout=compact&hide=html,css,php)](https://github.com/eduardosatrini)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrini&layout=compact&hide=html,css,php)](https://github.com/satrini)
 
 
 <!--
